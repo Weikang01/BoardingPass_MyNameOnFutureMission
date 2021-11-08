@@ -1,2 +1,2 @@
-![BoardingPass_PackRonin](D:\github_sync\BoardingPass_MyNameOnFutureMission\BoardingPass_PackRonin.png)
+![BoardingPass_PackRonin](https://github.com/Weikang01/BoardingPass_MyNameOnFutureMission/blob/master/BoardingPass_PackRonin.png)
 
